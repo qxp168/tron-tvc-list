@@ -6,33 +6,33 @@ Follow the steps below to add a new token：
 2) change the JSON file `tokenlist.json`, adding such as: (PLEASE DO NOT REMOVE EXISITING TOKENS)
 ```
 {
-      "address": "TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7",
-      "symbol": "WIN",
-      "name": "WINkLink",
+      "address": "TH3KQd3Y8YE6WaBSgVd4sre9E8JTw99999",
+      "symbol": "Timibbs",
+      "name": "TimibbsTRC20",
       "decimals": 6,
-      "logoURI": "https://coin.top/profile_images/JKtJTydD_400x400.jpg",
-      "homepage": "https://winklink.org/",
-      "MarketCapLink": "https://coinmarketcap.com/currencies/wink/",
+      "logoURI": "(https://apilist.tronscanapi.com/api/top10?type=0&time=1)",
+      "homepage": "(https://apilist.tronscanapi.com)",
+      "MarketCapLink": "(https://apilist.tronscanapi.com/currencies/wink/)",
       "existingMarkets": [
           {
               "source": "Binance",
               "pairs": [
-                  "WIN/USDT",
-                  "WIN/BUSD",
-                  "WIN/BNB",
-                  "WIN/USDC"
+                  "Timibbs/USDT",
+                  "Timibbs/BUSD",
+                  "Timibbs/BNB",
+                  "Timibbs/USDC"
               ]
           },
           {
               "source": "Poloniex",
               "pairs": [
-                  "WIN/USDT"
+                  "Timibbs/USDT"
               ]
           },
           {
               "source": "KuCoin",
               "pairs": [
-                  "WIN/USDT"
+                  "Timibbs/USDT"
               ]
           }
     ]
